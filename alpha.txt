@@ -1,1 +1,2 @@
 inside alpha txt
+learning git pull
